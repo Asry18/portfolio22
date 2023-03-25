@@ -1,0 +1,39 @@
+body{
+   position: fixed;
+   
+}
+a img{
+    width: 3%;
+    margin-right: 70px;
+    border-radius: 20%;
+    
+}
+a img:hover{
+    transform: scale(1.5);
+    transition: .5s;
+}
+.seetag{
+    text-align: center;
+    color: #ffff;
+    
+    
+}
+.seetag:hover{
+    transition: 1s;
+    transform: translateX(100px);
+   
+}
+#comasry{
+    
+    background:linear-gradient(to right,#09032ea4,#54b4da);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+.main-head span{
+    font-size: 10px;
+}
+
+.main-head p{
+    font-size: 8vw;
+}
